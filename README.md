@@ -5,7 +5,7 @@
 The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Dataflow, BigQuery, and Looker Studio.
 
 ## Architecture 
-<img src="architecture.png">
+<img src="architecure.png">
 
 ## Technology Used
 - Programming Language - Python
