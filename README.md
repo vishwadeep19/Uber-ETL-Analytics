@@ -17,8 +17,6 @@ Google Cloud Platform
 4. Looker Studio
 
 
-Contibute to this open source project - https://github.com/mage-ai/mage-ai
-
 
 ## Dataset Used
 TLC Trip Record Data
