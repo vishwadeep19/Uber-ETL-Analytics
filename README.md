@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
+The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Dataflow, BigQuery, and Looker Studio.
 
 ## Architecture 
 <img src="architecture.png">
@@ -12,11 +12,10 @@ The goal of this project is to perform data analytics on Uber data using various
 
 Google Cloud Platform
 1. Google Storage
-2. Compute Instance 
+2. Dataflow
 3. BigQuery
 4. Looker Studio
 
-Modern Data Pipeine Tool - https://www.mage.ai/
 
 Contibute to this open source project - https://github.com/mage-ai/mage-ai
 
@@ -34,5 +33,4 @@ More info about dataset can be found here:
 ## Data Model
 <img src="data_model.jpeg">
 
-## Complete Video Tutorial 
-Video Link - https://youtu.be/WpQECq5Hx9g
+
